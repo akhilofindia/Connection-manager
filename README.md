@@ -1,6 +1,12 @@
 Connection Manager
+
+
 🚀 A C++ Application for Managing User Connections
+
+
 📌 Overview
+
+
 Connection Manager is a C++ application designed to manage user connections efficiently. It allows users to register, add or remove friends, find common connections, and explore various features using graph-based algorithms. The project leverages graph data structures to model relationships and implements Dijkstra’s and Prim’s algorithms for optimized connection management.
 
 🔥 Features
